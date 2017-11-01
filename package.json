@@ -1,0 +1,17 @@
+{
+  "name": "birryjean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
